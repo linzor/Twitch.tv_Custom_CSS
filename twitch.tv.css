@@ -1,0 +1,279 @@
+/* https://github.com/linzor/Twitch.tv_Custom_CSS */
+/* twitch.tv custom .css v1.0 */
+
+body{
+ background-color:rgba(14,14,16,0) !important;
+   /* replace the link, to the link for your image here */
+ background-image:url("https://w.wallhaven.cc/full/vg/wallhaven-vg2e15.jpg");
+ background-size:cover;
+}
+
+/* css :D */
+/* Top nav  menu */
+.kBprba .top-nav .top-nav__menu{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Consent banner */
+.kBprba .bYReYr .consent-banner{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Division */
+#twilight-sticky-footer-root .bsRjSc{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Division */
+.fQjoXw div .ilDsKw{
+ box-shadow:none;
+}
+
+/* Zpsk */
+.fQjoXw div .fwZpSK{
+ box-shadow:none;
+}
+
+/* Buh */
+.fQjoXw div .bUHYlK{
+ border-top-left-radius:0px;
+ border-top-right-radius:0px;
+ border-bottom-left-radius:50px;
+ border-bottom-right-radius:25px;
+ box-shadow:0px 0px 15px 0px #000000;
+ backdrop-filter:blur(5px);
+}
+
+/* Balloon */
+.tw-dialog-layer div .tw-balloon{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Side nav  collapsed */
+.dajtya div .side-nav--collapsed{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Gdpr consent modal */
+.modal-wrapper__backdrop--info .kQIUgQ .gdpr-consent-modal{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Side nav  expanded */
+.dajtya div .side-nav--expanded{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Channel info content */
+.channel-root--watch-chat .bSoSIm .channel-info-content{
+ background-color:rgba(0,0,0,0);
+}
+
+/* Channel root  info */
+.channel-root--watch-chat .bSoSIm .channel-root__info{
+ background-color:rgba(0,0,0,0);
+}
+
+/* Channel root  watch chat */
+.iqhyKW .hUemkh .channel-root--watch-chat{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Iqi */
+#live-page-chat .channel-root__right-column--expanded .fLaIqI{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Division */
+#live-page-chat .channel-root__right-column--expanded{
+ background-color:rgba(0,0,0,0);
+}
+
+/* Live indicator container */
+.tw-halo__indicator .user-avatar-card__live .live-indicator-container{
+ background-color:rgba(0,0,0,0);
+}
+
+/* Channel root  player */
+.channel-root--watch-chat .bSoSIm .channel-root__player{
+ opacity:0;
+}
+
+/* Root scrollable */
+.dajtya .iqhyKW .root-scrollable{
+ background-color:rgba(0,0,0,0.35);
+ backdrop-filter:blur(5px);
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Aof */
+.about-section .about-section__panel .fkVAoF{
+ background-color:rgba(0,0,0,0.4) !important;
+}
+
+/* Jwlv */
+.gQivKQ .about-section__actions--wide .jwlvAi{
+ background-color:rgba(0,0,0,0.4) !important;
+}
+
+/* Division */
+.lldfdH .fGCgaq .dsTJkn{
+ background-color:rgba(0,0,0,0.2) !important;
+}
+
+/* Hfpm */
+.kAIqwe .tw-transition .hfPMPn{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Hqjzo */
+.gVEmBy .hZLfAO .gHqJZO{
+ background-color:rgba(0,0,0,0.15) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Division */
+.chat-input__textarea .WhLkF .ghZDnr{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Dxyv */
+.bUHYlK .jcwvVY .dxyVIj{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Division */
+.hOyRCN div .bzQeNe{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Chat settings  header */
+.bzQeNe .chat-settings__popover .chat-settings__header{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Iya */
+.chat-settings__popover .iYAWxB{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Iqi */
+#live-page-chat .channel-root__right-column .fLaIqI{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Chat room */
+.iqYckr .stream-chat .chat-room{
+ opacity:1;
+ background-color:rgba(0,0,0,0);
+}
+
+/* Stream chat header */
+.iqYckr .stream-chat .stream-chat-header{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Division */
+.search-box div .iUnPvt{
+ background-color:rgba(0,0,0,0.6) !important;
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Division */
+#directory-game-main-content .directory-header-new__banner-cover{
+ border-top-left-radius:25px;
+ border-top-right-radius:50px;
+ border-bottom-left-radius:10px;
+ border-bottom-right-radius:50px;
+}
+
+/* Directory game main content */
+#directory-game-main-content{
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Iiu */
+.bnFlqH div .iVyIiu{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Home carousel info */
+.home-offline-hero .dHHsIb .home-carousel-info{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Channel info content */
+.channel-root--home .bSoSIm .channel-info-content{
+ background-color:rgba(0,0,0,0);
+}
+
+/* Oqt */
+#offline-channel-main-content .jOqTFc{
+ background-color:rgba(0,0,0,0.35);
+ border-top-right-radius:50px;
+ backdrop-filter:blur(10px) brightness(0.72) contrast(1.11);
+}
+
+/* Channel root  home */
+.iqhyKW .hUemkh .channel-root--home{
+ background-color:rgba(0,0,0,0) !important;
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Byuq */
+.chat-room .jmUA-dj .byuQIf{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(10px) saturate(0.8);
+}
+
+/* Nee */
+.kAIqwe .hfPMPn .fNeELr{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px);
+}
+
+/* Cvoael */
+.support-panel .hFHWXb .cvoaeL{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Support panel container */
+.channel-root--home .bSoSIm .support-panel-container{
+ backdrop-filter:blur(5px);
+ border-top-left-radius:20px !important;
+ border-bottom-left-radius:50px !important;
+ background-color:rgba(0,0,0,0);
+}
+
+/* Hfhw */
+.channel-root__player--offline .support-panel .hFHWXb{
+ background-color:rgba(0,0,0,0) !important;
+}
+
+/* Support panel */
+.channel-root__player--offline .support-panel{
+ background-color:rgba(0,0,0,0.35);
+ backdrop-filter:blur(5px) contrast(0.8);
+}
+
+/* Balloon */
+.fVcPlA .ebndJO .tw-balloon{
+ background-color:rgba(0,0,0,0.35) !important;
+ backdrop-filter:blur(5px) saturate(0.6);
+}
+
